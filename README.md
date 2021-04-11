@@ -1,13 +1,13 @@
-### Hello there 🐧
+### Hello there 
 
 Im an student in IT integrated with high School at CEFET-MG Campus V since 2019 and representative of 2B class.
 Passionate about programming, learning new things and contributing with others, especially through open source projects.
 
 ---
-### Favorite GNU/Linux distros
+### Favorite GNU/Linux distros 🐧:
 
- <!-- <a href="https://www.gentoo.org/">
-    <img src="gentoo-signet.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">
+ <a href="https://www.gentoo.org/">
+    <img src="gentoo-logo.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px" width="300" height="200">
  </a>
  <a href="https://www.gentoo.org/">
     <img src="archlinux-logo.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">

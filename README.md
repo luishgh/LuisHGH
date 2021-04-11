@@ -9,7 +9,7 @@ Passionate about programming, learning new things and contributing with others, 
  <a href="https://www.gentoo.org/">
     <img src="gentoo-logo.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px" width="187.5" height="225">
  </a>
- <a href="https://www.gentoo.org/">
+ <a href="https://archlinux.org/">
     <img src="archlinux-logo.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">
  </a>
 

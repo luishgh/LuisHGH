@@ -1,4 +1,4 @@
-### Hello there 
+### Hello there, I'm Luis Henrique
 
 Im an student in IT integrated with high School at CEFET-MG Campus V since 2019 and representative of 2B class.
 Passionate about programming, learning new things and contributing with others, especially through open source projects.

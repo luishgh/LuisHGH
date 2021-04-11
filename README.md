@@ -6,8 +6,8 @@ Passionate about programming, learning new things and contributing with others, 
 ---
 ### Favorite GNU/Linux distros
 
- <a href="https://www.gentoo.org/">
-    <img src="" alt="Gentoo" style="vertical-align:top margin:6px 4px">
+ <!-- <a href="https://www.gentoo.org/">
+    <img src="gentoo-signet.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">
   </a>  
 
 <!--

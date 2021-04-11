@@ -4,7 +4,7 @@ Im an student in IT integrated with high School at CEFET-MG Campus V since 2019 
 Passionate about programming, learning new things and contributing with others, especially through open source projects.
 
 ---
-### Favorite GNU/Linux distros 🐧:
+### Favorite GNU/Linux distros 🐧
 
  <a href="https://www.gentoo.org/">
     <img src="gentoo-logo.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px" width="187.5" height="225">

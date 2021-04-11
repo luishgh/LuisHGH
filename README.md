@@ -13,5 +13,9 @@ Passionate about programming, learning new things and contributing with others, 
     <img src="archlinux-logo.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">
  </a>
 
+---
+### Github stats
+[![LuisHGH's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisHGH)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **LuisHGH/LuisHGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -6,6 +6,9 @@ Passionate about programming, learning new things and contributing with others, 
 ---
 ### Favorite GNU/Linux distros
 
+ <a href="https://www.gentoo.org/">
+    <img src="" alt="Gentoo" style="vertical-align:top margin:6px 4px">
+  </a>  
 
 <!--
 **LuisHGH/LuisHGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

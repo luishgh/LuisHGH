@@ -10,7 +10,7 @@ Passionate about programming, learning new things and contributing with others, 
     <img src="gentoo-signet.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">
  </a>
  <a href="https://www.gentoo.org/">
-    <img src=".svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">
+    <img src="archlinux-logo.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">
  </a>
 
 <!--

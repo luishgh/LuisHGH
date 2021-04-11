@@ -8,7 +8,10 @@ Passionate about programming, learning new things and contributing with others, 
 
  <!-- <a href="https://www.gentoo.org/">
     <img src="gentoo-signet.svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">
-  </a>  
+ </a>
+ <a href="https://www.gentoo.org/">
+    <img src=".svg" alt="Gentoo" style="vertical-align:top margin:6px 4px">
+ </a>
 
 <!--
 **LuisHGH/LuisHGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,6 @@
 ### Hello there, I'm Luis Henrique
 
-Im an undergraduate student in Computer Science at [UFMG](https://ufmg.br/international-visitors) and graduated in IT from [CEFET-MG](https://www.divinopolis.cefetmg.br/).
-Passionate about programming, learning new things and contributing with others, especially through open source projects.
+I'm an undergraduate student in Computer Science at [UFMG](https://ufmg.br/international-visitors) and graduated in IT from [CEFET-MG](https://www.divinopolis.cefetmg.br/). Passionate about programming, learning new things, and contributing alongside others, notably through open source projects.
 
 ---
 ### Github stats

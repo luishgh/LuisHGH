@@ -15,7 +15,8 @@ I'm an undergraduate student in Computer Science at [UFMG](https://ufmg.br/inter
 ### Other profiles
 
 - [Lattes](http://lattes.cnpq.br/8358867793759931)
-- [![bruh](https://www.codewars.com/users/luishgh/badges/small)](https://www.codewars.com/users/luishgh)
+- [![Badge](https://www.codewars.com/users/luishgh/badges/small)](https://www.codewars.com/users/luishgh)
+- [CodeForces](https://codeforces.com/profile/luishgh)
 
 <!--
 **LuisHGH/LuisHGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
